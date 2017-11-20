@@ -18,7 +18,7 @@ public class HelloController {
 	@ResponseBody
 	public String index(){
 		
-		return "Hello SpringBoot";
+		return "Hello SpringBoot222";
 	}
 	
 	public static void main(String[] args) {
